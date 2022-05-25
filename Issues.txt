@@ -1,0 +1,13 @@
+https://qa.clariti.app/qausers/qaissues/20200701/DifferentUIshown.png
+
+User name Claritiqa
+Password triad123
+
+
+appwiz.cpl
+
+"
+
+23-Mar-22
+
+01-005-03487-000  (H.401)
